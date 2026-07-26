@@ -1,4 +1,4 @@
-package com.morellana.service;
+package com.morellana.security;
 
 import com.morellana.model.User;
 import org.jspecify.annotations.Nullable;
